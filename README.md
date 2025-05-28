@@ -9,13 +9,13 @@ In here I will have the progress that I made to take it from v1 to v2. I hope to
 3. '.png'
 
 ## Image Sorter v1
--Sorts images in a folder based on size, name, or date.
--It also sorts on ascending or descending order.
+1. -Sorts images in a folder based on size, name, or date.
+2. -It also sorts on ascending or descending order.
 
 ## Image Sorter v2
--Sorts images in a folder based on size, name, or date.
--It also sorts on ascending or descending order.
--The program will also tell the user if the image 
+1. -Sorts images in a folder based on size, name, or date.
+2. -It also sorts on ascending or descending order.
+3. -The program will also tell the user if the image 
 is blurry based on the Laplacian Variance if the user would like.
 
 ## Requirements
