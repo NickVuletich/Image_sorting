@@ -19,8 +19,8 @@ In here I will have the progress that I made to take it from v1 to v2. I hope to
 is blurry based on the Laplacian Variance if the user would like.
 
 ## Requirements
--Python 3.6+
--OpenCV (Can be installed via `pip install opencv-python`)
+1. -Python 3.6+
+2. -OpenCV (Can be installed via `pip install opencv-python`)
 
 ## How to use 
 1. You have to set the folder path. It is currently set to "sort_img" so change that to the correct folder you want to sort.
